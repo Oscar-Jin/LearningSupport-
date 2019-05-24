@@ -1,2 +1,16 @@
-source control workflows in xcode
+//20:32:04
+//Source Control Workflows in Xcode
+//Apple https://developer.apple.com/videos/play/wwdc2018/418/
 
+
+
+
+thoughts on mind:
+
+ttbs anxiety : "panic attack when encounter something difficult to understand"
+ttbs 
+
+ 
+
+committing 
+if there is a way to have something inside of the system, then we are going to have something to use inside of the status there is something that could have inside of a system and there will be a way of dong thing inside of the source file. then we are going to sta
