@@ -17,4 +17,9 @@ if there is a way to have something inside of the system, then we are going to h
 
 added new things for something fun!
 
-WE NEED SOME TIME TO REFLECT ON OURSELF
+
+and there is a way of doing things that can help us to get at better on Xcode :)
+
+TEMPORARY BRANCH ADDED
+
+AND THIS WILL BECOME VERRSION 1.0.0
